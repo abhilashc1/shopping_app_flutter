@@ -1,6 +1,6 @@
 # Shopping_app
 
-A new Flutter project.
+A new Flutter project made by C Abhilash
 
 ## Getting Started
 
